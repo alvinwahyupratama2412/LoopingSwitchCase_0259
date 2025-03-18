@@ -17,4 +17,8 @@ int main(){
         x = rand() % 10;
         perulanganWhile++;
     }
+    cout << "Nilai akhir x = " << x << endl;
+    cout << "jumlah perulangan = " << perulanganWhile << endl;
+    cout << endl;
+    cout << "perulangan dengan do while" << endl;
 }
